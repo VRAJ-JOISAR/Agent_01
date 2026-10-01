@@ -1,0 +1,11 @@
+Preventive motor maintenance includes regular inspection,
+vibration monitoring, temperature monitoring, electrical
+measurements, and checking mechanical components.
+
+Maintenance decisions should consider the severity of the
+observed condition, operating history, previous maintenance,
+and manufacturer recommendations.
+
+A suspected fault should not automatically result in a
+shutdown. Protection limits and authorized engineering
+procedures must be followed.

@@ -1,0 +1,12 @@
+Motor vibration analysis can be used to identify abnormal
+operating conditions.
+
+High vibration may be associated with bearing faults,
+rotor imbalance, shaft misalignment, mechanical looseness,
+or other mechanical problems.
+
+Frequency-domain analysis such as FFT can help identify
+characteristic frequency components.
+
+Vibration measurements should be interpreted together with
+operating conditions such as motor speed and load.

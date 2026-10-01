@@ -1,0 +1,13 @@
+Bearing faults are a common cause of induction motor failure.
+
+A bearing defect can produce characteristic vibration patterns.
+Common symptoms include increased vibration amplitude, abnormal
+noise, temperature increase, and vibration components associated
+with the bearing defect frequencies.
+
+Regular vibration monitoring can help detect bearing degradation
+before complete bearing failure occurs.
+
+If a bearing fault is suspected, the motor should be inspected
+and the bearing condition should be evaluated by a qualified
+maintenance engineer.
